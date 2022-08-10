@@ -6,29 +6,6 @@ Wild Workouts is an **example Go DDD** project that we created to show how to bu
 
 No application is perfect from the beginning. With over a dozen coming articles, we will uncover what issues you can find in the current implementation. We will also show how to fix these issues and achieve clean implementation by refactoring.
 
-### Articles
-
-#### "Too modern" application
-
-1. [**Too modern Go application? Building a serverless application with Google Cloud Run and Firebase**](https://threedots.tech/post/serverless-cloud-run-firebase-modern-go-application/?utm_source=github.com) _[[v1.0]](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/releases/tag/v1.0)_
-2. [**A complete Terraform setup of a serverless application on Google Cloud Run and Firebase**](https://threedots.tech/post/complete-setup-of-serverless-application/?utm_source=github.com) _[[v1.1]](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/releases/tag/v1.1)_
-3. [**Robust gRPC communication on Google Cloud Run (but not only!)**](https://threedots.tech/post/robust-grpc-google-cloud-run/?utm_source=github.com) _[[v1.2]](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/releases/tag/v1.2)_
-4. [**You should not build your own authentication. Let Firebase do it for you.**](https://threedots.tech/post/firebase-cloud-run-authentication/?utm_source=github.com) _[[v1.3]](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/releases/tag/v1.3)_
-
-#### Refactoring
-
-5. [**Business Applications in Go: Things to know about DRY**](https://threedots.tech/post/things-to-know-about-dry/?utm_source=github.com) _[[v2.0]](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/releases/tag/v2.0)_
-6. [**When microservices in Go are not enough: introduction to DDD Lite**](https://threedots.tech/post/ddd-lite-in-go-introduction/?utm_source=github.com) _[[v2.1]](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/releases/tag/v2.1)_
-7. [**Repository pattern: painless way to simplify your Go service logic**](https://threedots.tech/post/repository-pattern-in-go/?utm_source=github.com) _[[v2.2]](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/releases/tag/v2.2)_
-8. [**4 practical principles of high-quality database integration tests in Go**](https://threedots.tech/post/database-integration-testing/?utm_source=github.com) _[[v2.3]](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/releases/tag/v2.3)_
-9. [**Introducing Clean Architecture by refactoring a Go project**](https://threedots.tech/post/introducing-clean-architecture/?utm_source=github.com) _[[v2.4]](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/releases/tag/v2.4)_
-10. [**Introducing basic CQRS by refactoring**](https://threedots.tech/post/basic-cqrs-in-go/?utm_source=github.com) _[[v2.5]](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/releases/tag/v2.5)_
-11. [**Combining DDD, CQRS, and Clean Architecture**](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/?utm_source=github.com)
-12. [**Microservices test architecture. Can you sleep well without end-to-end tests?**](https://threedots.tech/post/microservices-test-architecture/?utm_source=github.com) _[[v2.6]](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/releases/tag/v2.6)_
-13. [**Repository secure by design: how to sleep better without fear of security vulnerabilities**](https://threedots.tech/post/repository-secure-by-design/?utm_source=github.com)
-14. [**Running integration tests on Google Cloud Build using docker-compose**](https://threedots.tech/post/running-integration-tests-on-google-cloud-build/?utm_source=github.com) _[[v2.7]](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/releases/tag/v2.7)_
-15. *More articles are on the way!*
-
 ### Community
 
 We're building a Discord community focused on modern business applications. It's the place to discuss hard topics, request a review, or ask if something's not clear. [Come join us!](https://discord.gg/kTVsGjPYDn)
